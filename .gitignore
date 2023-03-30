@@ -1,0 +1,5 @@
+# 忽略wen.css文件
+wen.css
+
+#忽略test文件夹下的所有的文件
+test/
